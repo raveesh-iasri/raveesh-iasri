@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raveesh kumar
 - 👀 I’m interested in Graphic Design
 - 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on with anyone
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me - raveeshkr7@gmail.com
 
 <!---
